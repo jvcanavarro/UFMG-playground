@@ -1,3 +1,6 @@
 .vscode
 *.csv
 *.jsonl
+*.txt
+.ipynb_checkpoints/
+.python-version
